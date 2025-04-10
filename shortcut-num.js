@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", function () {
     for (let i = 1; i <= 6; i++) {
         const span = document.getElementById(`count-shortcut${i}`);
@@ -18,4 +17,3 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 });
-</script>
